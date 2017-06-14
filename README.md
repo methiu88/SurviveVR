@@ -1,7 +1,8 @@
 # SurviveVR
 
 Codice sorgente dell’elaborato della tesi del laureando Mattia Balzani N° matricola 317929
-Facoltà di Ingegneria Informatica, Sede di Cesena
+
+Facoltà di Ingegneria Informatica, Sede di Cesena.    14-06-2017
 
 TITOLO: "Sviluppo e progettazione di app per Google Cardboard su piattaforma Google VR"
 
