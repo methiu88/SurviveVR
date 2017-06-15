@@ -4,7 +4,7 @@ Codice sorgente dell’elaborato della tesi del laureando Mattia Balzani N° mat
 
 Facoltà di Ingegneria Informatica, Sede di Cesena.    14-06-2017
 
-TITOLO: "Sviluppo e progettazione di app per Google Cardboard su piattaforma Google VR"
+TITOLO: "Sviluppo e progettazione di applicazioni di realtà virtuale per Google Cardboard e piattaforme Google VR"
 
 File relativi all'elaborato:        "SurviveVR"
 
